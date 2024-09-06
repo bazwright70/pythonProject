@@ -1,0 +1,4 @@
+certifi==021.10.8
+charset-normalizer==.0.9
+requests==2.26.0
+urllib==1.26.7
